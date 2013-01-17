@@ -1,5 +1,5 @@
 #A script to Brute-force cracking password of specific user of NUPT's old E-Mail Account
-#//It semms useless unless you want to Brute-force the E-mail Account of fukun
+#//It semms useless unless you want to Brute-force the E-mail Account of fukun :)
 #coding=utf-8
 import urllib,httplib
 from threading import *
