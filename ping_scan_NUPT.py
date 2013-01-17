@@ -1,5 +1,6 @@
 #In NUPT's Local Network ,The ip of Gateway is always assigned to xx.xx.xx.20
 #So,this script can find all the subnetwork of class C in NUPT by ping the assigned Gateway
+#The next aim of this script is to use a more quite method to scan the target
 from os import system
 from threading import *
 class gatesca(Thread):
