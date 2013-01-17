@@ -1,4 +1,5 @@
-#A daemon process to keep network alive in DaHuo NUPT
+#coding=utf-8
+#A daemon process to keep network alive in 大活 of  NUPT
 #!/usr/bin/python
 import time
 from os import system
