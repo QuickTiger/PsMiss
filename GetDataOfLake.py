@@ -1,3 +1,4 @@
+#A simple scripts of Download data from TaiHu Lake
 import re
 import urllib.request
 f=open('data.txt','w')
